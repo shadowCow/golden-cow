@@ -1,0 +1,11 @@
+# compiled files
+dist
+
+# dependencies
+node_modules
+
+# IDE files
+*.code-workspace
+
+# OS files
+.DS_Store
